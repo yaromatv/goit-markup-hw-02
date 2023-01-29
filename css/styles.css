@@ -36,6 +36,10 @@ ul {
     list-style-type: none;
 }
 
+.button-pointer {
+    cursor: pointer;
+}
+
 .visually-hidden {
     position: absolute;
     white-space: nowrap;
